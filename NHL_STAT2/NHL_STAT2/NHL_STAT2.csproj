@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2BC8E641-7A94-43E4-A394-4D9DE5E499B0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NHL_STAT2</RootNamespace>
+    <AssemblyName>NHL_STAT2</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmPoolies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPoolies.designer.cs">
+      <DependentUpon>frmPoolies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stats.cs" />
+    <Compile Include="Season.cs" />
+    <Compile Include="frmNewPoolName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewPoolName.Designer.cs">
+      <DependentUpon>frmNewPoolName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdateStats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdateStats.Designer.cs">
+      <DependentUpon>frmUpdateStats.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PoolPoolie.cs" />
+    <Compile Include="frmPoolPooliesOLD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPoolPooliesOLD.designer.cs">
+      <DependentUpon>frmPoolPooliesOLD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPoolx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPoolx.designer.cs">
+      <DependentUpon>frmPoolx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pool.cs" />
+    <Compile Include="frmStartup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStartup.designer.cs">
+      <DependentUpon>frmStartup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLeaderboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLeaderboard.designer.cs">
+      <DependentUpon>frmLeaderboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdmin.designer.cs">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDraft.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDraft.designer.cs">
+      <DependentUpon>frmDraft.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlayers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlayers.designer.cs">
+      <DependentUpon>frmPlayers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPooliePlayers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPooliePlayers.designer.cs">
+      <DependentUpon>frmPooliePlayers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Leaderboard.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Player.cs" />
+    <Compile Include="PoolForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PoolForm.Designer.cs">
+      <DependentUpon>PoolForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poolie.cs" />
+    <Compile Include="PooliePlayer.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmPoolies.resx">
+      <DependentUpon>frmPoolies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPoolPooliesOLD.resx">
+      <DependentUpon>frmPoolPooliesOLD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPoolx.resx">
+      <DependentUpon>frmPoolx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStartup.resx">
+      <DependentUpon>frmStartup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLeaderboard.resx">
+      <DependentUpon>frmLeaderboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdmin.resx">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDraft.resx">
+      <DependentUpon>frmDraft.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlayers.resx">
+      <DependentUpon>frmPlayers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPooliePlayers.resx">
+      <DependentUpon>frmPooliePlayers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdateStats.resx">
+      <DependentUpon>frmUpdateStats.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewPoolName.resx">
+      <DependentUpon>frmNewPoolName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PoolForm.resx">
+      <DependentUpon>PoolForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="Properties\DataSources\NHL_Stat2.frmPlayers.datasource" />
+    <None Include="Properties\DataSources\NHL_Stat2.Player.datasource" />
+    <None Include="Properties\DataSources\NHL_Stats.Player.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Team.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel1">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,40 @@
+C:\Users\maureen\Documents\Visual Studio 2008\Projects\NHL_STAT2\NHL_STAT2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maureen\Documents\Visual Studio 2008\Projects\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmPoolies.resources
+C:\Users\maureen\Documents\Visual Studio 2008\Projects\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmPoolPoolies.resources
+C:\Users\maureen\Documents\Visual Studio 2008\Projects\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmPool1.resources
+C:\Users\maureen\Documents\Visual Studio 2008\Projects\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmStartup.resources
+C:\Users\maureen\Documents\Visual Studio 2008\Projects\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.Form1.resources
+C:\Users\maureen\Documents\Visual Studio 2008\Projects\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.Form2.resources
+C:\Users\maureen\Documents\Visual Studio 2008\Projects\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmAdmin.resources
+C:\Users\maureen\Documents\Visual Studio 2008\Projects\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmDraft.resources
+C:\Users\maureen\Documents\Visual Studio 2008\Projects\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmPlayers.resources
+C:\Users\maureen\Documents\Visual Studio 2008\Projects\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmPooliePlayers.resources
+C:\Users\maureen\Documents\Visual Studio 2008\Projects\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmUpdateStats.resources
+C:\Users\maureen\Documents\Visual Studio 2008\Projects\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.Leaderboard1.resources
+C:\Users\maureen\Documents\Visual Studio 2008\Projects\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmNewPoolName.resources
+C:\Users\maureen\Documents\Visual Studio 2008\Projects\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.PoolForm.resources
+C:\Users\maureen\Documents\Visual Studio 2008\Projects\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_STAT2.Properties.Resources.resources
+C:\Users\maureen\Documents\Visual Studio 2008\Projects\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_STAT2.csproj.GenerateResource.Cache
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_STAT2.csproj.ResolveComReference.cache
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmPoolies.resources
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmPoolPoolies.resources
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmPool1.resources
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmStartup.resources
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.Form1.resources
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.Form2.resources
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmAdmin.resources
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmDraft.resources
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmPlayers.resources
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmPooliePlayers.resources
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmUpdateStats.resources
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.Leaderboard1.resources
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.frmNewPoolName.resources
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_Stat2.PoolForm.resources
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_STAT2.Properties.Resources.resources
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_STAT2.csproj.GenerateResource.Cache
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\bin\Debug\NHL_STAT2.exe.config
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\bin\Debug\NHL_STAT2.exe
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\bin\Debug\NHL_STAT2.pdb
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_STAT2.exe
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_STAT2.pdb
+C:\Users\MAUREEN\Desktop\NHLPOOL-28-APR-2015\NHLPOOL_BACKUP\NHL_STAT2\NHL_STAT2\obj\Debug\NHL_STAT2.csprojResolveAssemblyReference.cache
